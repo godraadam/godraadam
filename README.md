@@ -1,4 +1,4 @@
-# <img src="https://github.com/godraadam/godraadam/blob/main/profilepic.png" alt="" width="64" height="64"> &nbsp;&nbsp;&nbsp;&nbsp;[Godra Ádám](https://github.com/godraadam)
+# <img src="https://github.com/godraadam/godraadam/blob/main/profilepic.png" alt="" width="64" height="64"> &nbsp;&nbsp;&nbsp;&nbsp;[Godra Ádám](https://godraadam.com/)
   
 
 👋 **Hi!** I am a 23 years old full-stack software engineer, based in Cluj-Napoca/RO.
