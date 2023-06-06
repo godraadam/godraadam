@@ -11,7 +11,7 @@ I've considered myself a privacy advocate since. In my free time I like to proto
 
 ### Work
 
-I currently work at [@minyma technologies](https://www.minyma-tech.com/) as a backend/blockchain engineer since 2022. I design smart contracts in Solidity for the [@galaxis](https://galaxis.xyz/#/) community space.
+I currently work at [@minyma technologies](https://www.minyma-tech.com/) as a backend/blockchain engineer since 2022. I design smart contracts in Solidity for the [@galaxis](https://galaxis.xyz/#/) community space. I am a part of the backend team behind [@quino.ai](quino.ai)
 
 ### Education
 
