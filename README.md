@@ -11,7 +11,7 @@ I've considered myself a privacy advocate since. In my free time I like to proto
 
 ### Work
 - Currently working at [webgurus.io](https://webgurus.io) as a full stack engineer and tech lead on multiple projects.
-- Before that I worked at [@minyma technologies](https://www.minyma-tech.com/) as a backend/frontend/blockchain engineer. I designed smart contracts in Solidity for the [@galaxis](https://galaxis.xyz/#/) community space. I was a part of the engineering team behind [@quino.ai](quino.ai)
+- Before that I worked at [@minyma technologies](https://www.minyma-tech.com/) as a backend/frontend/blockchain engineer. I designed smart contracts in Solidity for the [@galaxis](https://galaxis.xyz/#/) community space. I was a part of the engineering team behind [@quino.ai](https://quino.ai)
 
 ### Education
 
