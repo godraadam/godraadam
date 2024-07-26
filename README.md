@@ -10,7 +10,7 @@ Later, in 2014 I participated in the Cicada 3301 online puzzle, which got me hoo
 I've considered myself a privacy advocate since. In my free time I like to prototype privacy-oriented, decentralized solutions, such as the privy peer-to-peer chat application built on IPFS and OrbitDB.  
 
 ### Work
-- Currently working at [webgurus.io](webgurus.io) as a full stack engineer and tech lead on multiple projects.
+- Currently working at [webgurus.io](https://webgurus.io) as a full stack engineer and tech lead on multiple projects.
 - Before that I worked at [@minyma technologies](https://www.minyma-tech.com/) as a backend/frontend/blockchain engineer. I designed smart contracts in Solidity for the [@galaxis](https://galaxis.xyz/#/) community space. I was a part of the engineering team behind [@quino.ai](quino.ai)
 
 ### Education
