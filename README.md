@@ -10,7 +10,8 @@ Later, in 2014 I participated in the Cicada 3301 online puzzle, which got me hoo
 I've considered myself a privacy advocate since. In my free time I like to prototype privacy-oriented, decentralized solutions, such as the privy peer-to-peer chat application built on IPFS and OrbitDB.  
 
 ### Work
-- Currently working at [@peakfs](https://peakfs.io) as a senior full stack software engineer.
+- Currently working at [@peakfs](https://peakfs.io) as a senior full stack software engineer, processing card payments for MBH bank at scale.
+- Before that I worked at [@webgurus](https://webgurus.io) as a senior full stack software engineer and tech lead, working on targeted print media campaign automation.
 - Before that I worked at [@minyma technologies](https://www.minyma-tech.com/) as a backend/frontend/blockchain engineer. I designed smart contracts in Solidity for the [@galaxis](https://galaxis.xyz/#/) community space. I was a part of the engineering team behind [@quino.ai](https://quino.ai)
 - I take on side projects under the hood of [@dotslash.ro](https://dotslash.ro). If you have a great idea, and you're looking for a small but agile engineering team, hit us up!
 - Check out my resume [here](https://cv.godraadam.com). (made with [JSON resume](https://jsonresume.org/), using [my theme](https://www.npmjs.com/package/jsonresume-theme-minyma))
