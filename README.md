@@ -1,7 +1,7 @@
 # <img src="https://github.com/godraadam/godraadam/blob/main/profilepic.png" alt="" width="64" height="64"> &nbsp;&nbsp;&nbsp;&nbsp;[Godra Ádám](https://godraadam.com/)
   
 
-👋 **Hi!** I am a 26 years old full-stack software engineer, based in Romania.
+👋 **Hi!** I am a 27 years old full-stack software engineer, based in Romania.
 
 My programming journey started in 2013 with Java, when I started writing mods for the popular survival game, Minecraft.  
 
